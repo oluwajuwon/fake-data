@@ -3,12 +3,12 @@
     {
       "name": 1,
       "email": "hello",
-      "consent given for": ['Receive newsletter']
+      "consent given for": ["Receive newsletter"]
     },
     {
       "name": 1,
       "email": "hello",
-      "consent given for": ['Receive newsletter','Contribute to anonymous visit statistics']
+      "consent given for": ["Receive newsletter","Contribute to anonymous visit statistics"]
     }
   ],
 }
