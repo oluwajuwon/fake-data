@@ -1,0 +1,14 @@
+{
+  "consents": [
+    {
+      "name": 1,
+      "email": "hello",
+      "consent given for": ['Receive newsletter']
+    },
+    {
+      "name": 1,
+      "email": "hello",
+      "consent given for": ['Receive newsletter','Contribute to anonymous visit statistics']
+    }
+  ],
+}
